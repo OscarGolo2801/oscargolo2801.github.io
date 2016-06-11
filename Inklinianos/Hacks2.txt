@@ -1,0 +1,5 @@
+Hi! This is a tutorial for using hacks of Pygecko
+
+First you have to run the original kernel exploit, then you need to open the TCPGecko Installer, and then use your hacks!
+
+(In TCPGecko you will get the IP of your Wii U) this IP is important to use the hacks 
